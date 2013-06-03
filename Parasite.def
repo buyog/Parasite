@@ -1,0 +1,60 @@
+;===============================;
+;           Parasite            ;
+;         for MUGEN 1.0         ;
+; http://www.scruffydragon.com/ ;
+;===============================;
+
+[Info]
+name = "Parasite"
+displayname = "Parasite"
+versiondate = 1,2,2012
+mugenversion = 1.0
+author = "Buyog2099 and Jet the Phoenix"
+pal.defaults = 1,2,3,4,5
+localcoord = 320,240       ;Local coordinate space width and height
+
+[Files]
+sprite   = Parasite.sff
+anim     = Parasite.air
+sound    = Parasite.snd
+cmd      = Parasite.cmd
+cns      = Parasite.cns
+stcommon = DCvsMarvelcommon1.cns
+st       = basics.st
+st1      = specials.st
+st2      = hypers.st
+st3      = overrides.st
+st4      = custom.st
+st5      = amalgam.st
+ai       = Parasite.ai         ;AI hints data (not used)
+
+;=== Palettes ===
+pal1  = _striped.act
+pal2  = _shorts.act
+pal3  = _bermuda.act
+pal4  = _boots.act
+pal5  = _wolv.act
+pal6  = _spider.act
+pal7  = _venom.act
+pal8  = _hulk.act
+pal9  = _flash.act
+pal10 = _cap.act
+pal11 = _batman.act
+pal12 = _gl.act
+
+
+; Arcade mode
+;[Arcade]
+;intro.storyboard = intro.def
+;ending.storyboard = ending.def
+
+
+;-----------------------
+;  DCvM Template Files
+;      provided by
+;       Buyog2099
+;(based on MEE template
+;  by Kitsune Sniper)
+;         ***
+;   Thanks, Kitsune!
+;-----------------------

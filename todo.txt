@@ -1,0 +1,672 @@
+All Capcom Marvel characters (to eventually support...?)
+
+X:COTA
+	Cyclops, Psylocke, Wolverine, Storm, Colossus, Iceman
+	Omega Red, Sentinel, Spiral, Silver Samurai, Juggernaut, Magneto, (Akuma)
+
+MSH
+	Hulk, Wolverine, Spider-Man, Iron Man, Captain America, Psylocke
+	Magneto, Shuma-Gorath, Blackheart, Juggernaut, Dr. Doom, Thanos
+
+XvSF
+	Cyclops, Wolverine, Rogue, Gambit, Storm
+	Sabretooth, Juggernaut, Magneto, Apocalypse, (Akuma)
+
+MvSF
+	Cyclops, Spider-Man, Captain America, Wolverine, Hulk,
+	Shuma-Gorath, Blackheart, Omega Red, Apocalypse, (Akuma)
+
+MvC
+	Captain America, Gambit, Hulk, Spider-Man, Venom, War Machine, Wolverine, Onslaught
+	
+MvC2
+	Cyclops, Doctor Doom, Sentinel, Blackheart, Captain America, Gambit, Hulk, Iceman, Iron Man, 
+	Juggernaut, Magneto, Silver Samurai, Omega Red, War Machine, Rogue, Sabretooth, Colossus, 
+	Shuma-Gorath, Wolverine, Cable, Storm, Thanos, Psylocke, Spider-Man, Marrow, Wolverine (Bone Claws), Spiral, Venom
+
+MvC3
+	Deadpool, Doctor Strange, Dormammu, Galactus, Ghost Rider, Hawkeye, Iron Fist, MODOK, Nova,
+	Phoenix, Rocket Raccoon, She-Hulk, Super-Skrull, Taskmaster, Thor, X-23
+
+
+All Capcom-created Marvel characters
+## index numbers included for those I already support
+* indicates I have an icon for this character already
+*	Blackheart
+*	Cable
+*	Colossus
+	Doctor Strange
+	Dormammu
+*	Gambit
+	Hawkeye
+	Iron Fist
+	MODOK
+*	Magneto
+	Nova
+*	Phoenix
+*	Psylocke
+	Rocket Raccoon
+@	Rogue
+	Sabretooth
+*	Sentinel
+*	She-Hulk
+*	Shuma-Gorath
+*	Silver Samurai
+$	Super-Skrull
+	Taskmaster
+%	War Machine
+^	X-23
+51	Captain America
+52	Hulk
+53	Thor
+54	Spider-Man
+55	Iron Man
+58	Wolverine
+60	Dr. Doom
+61	Ghost Rider
+63	Thanos
+64	Deadpool
+65	Juggernaut
+71	Venom
+72	Cyclops
+75	Marrow
+77	Omega Red
+79	Iceman
+80	Storm
+99	Spiral
+
+Huge bosses: maybe I won't support these...?
+	Apocalypse
+	Galactus
+	Onslaught
+
+$ Super-Skrull: I can kind of punt here, and just cough up a random FF poweret :)
+% War Machine: maybe I can just treat him like Iron Man?
+^ X-23: I might be able to get away with just treating her like Wolverine...
+
+@ ... and then there's Rogue. I really have no idea how to deal with the Rogues out there (ranked easiest to hardest):
+- ignore her / treat her like an unpowered opponent (random health/power boost)
+- treat her like MarvelTemplate, and just give a random Marvel powerset?
+- create a custom powerset based on her few non-power-drain moves?
+- try and figure out what power set she's got and copy it? (ugh, HARD)
+
+
+Tentative Marvel powerset matrix for Phase 2:
+
+51	Captain America
+52	Savage Hulk
+53	Thor
+54	Spider-Man
+55	Iron Man
+56	Crystal
+57	Sandman
+58	Wolverine
+59	Carnage
+60	Dr. Doom
+61	Ghost Rider
+62	Strong Guy
+63	Thanos
+64	Deadpool
+65	Juggernaut
+66	Mr. Fantastic
+67	Invisible Woman
+68	The Thing
+69	Human Torch
+70	Silver Surfer
+71	Venom
+72	Cyclops
+73	Elektra
+74	Nightcrawler
+75	Marrow
+76	Songbird
+77	Omega Red
+78	Rhino
+79	Iceman
+80	Storm
+81  Cable               Time Flip (very similar to Main Men)
+82  Colossus            Giant Swing (grapple) / Super Armor (10sec)
+83  Gambit              Kinetic Card (instant projectile) / Cajun Explosion (diagonal Ion Wave) or Royal Flush (more custom sprites but more iconic)
+84  Magneto             Hyper Grav (like Selfish Grab) / Magnetic Shockwave (Ion Wave) or Magnetic Tempest (Arctic Attack) / 8-way air dash
+85  Psylocke            Psy-Blast (fireball) or Ninjitsu (teleport) / Maelstrom (spinning blades) or Kocho-Gakure (butterfly swarm)
+86	Phoenix
+87  Silver Samurai      Shuriken            Multiple Samurai
+88	Sentinel
+89  Shuma-Gorath        Mystic Smash        Chaos Dimension
+90	Daredevil
+91	Miss Marvel
+92  Blackheart          Dark Thunder?       Armageddon
+93  Sabretooth          Berserker Claw      Weapon X
+94	(Nova)
+95	(Doctor Strange)
+96	(Iron Fist)
+97
+98
+99	Spiral
+100	
+
+
+	Dormammu
+	Hawkeye
+	MODOK
+	Rocket Raccoon
+*	She-Hulk
+	Taskmaster
+
+
+================================================================
+
+STILL TO DO (Fall 2012 list):
+- MUGEN 1.0 compatibility
+- power sets:
+	Flash: finish Speed Force hyper
+	Lobo: Rotgut special
+	Plastic Man: Stone Fists special / tweak hyper sprite
+	Etrigan: Dancing Blazes hyper
+	Darkseid: Omega Sanction hyper
+	Aquaman: whale/shark summon hyper
+	Doomsday: adaptive evolution special / asteroid smash hyper
+	The Atom: Subatomic Adventure hyper
+	Shazam: Electric charge special / lightning strike hyper
+	Starfire: Koriand'r Special
+	Bane: charging fist special / bat-breaker hyper
+	Vixen: Elephant Charge hyper
+	Mongul: Earthquake special / Mongul's Insanity hyper
+	Red Lantern: finish hyper sprites
+	Orange Lantern: Orange Corps hyper
+	Star Sapphire: Love Conquers All hyper
+	Black Lantern: Lifeforce Boost hyper
+	
+	Hulk: Super Armor
+	Thor: Mystic Rainfall hyper
+	Spider-Man: fix web ball when you have superspeed / finish Maximum Spider hyper
+	Iron Man: finish Nano Assault hyper
+	Crystal: Element Storm hyper
+	Wolverine: fix button-mashing in berzerker barrage / do Weapon X hyper
+	Carnage: hyper needs to do more damage
+	Dr. Doom: finish Photon Array hyper
+	Thanos: finish Stone Walls hyper
+	Juggernaut: Power Up hyper / Super Armor
+	Mr. Fantastic: finish elastic slam sprites / Pliable Pounder hyper
+	Thing: change special sfx / hyper is busted after first dash
+	Venom: Venom Fang special / Death Bite hyper
+	Nightcrawler: Triple Threat Teleport hyper
+	Songbird: finish Decibel Barrage special / Shatter Scream hyper
+	Rhino: tweak damage on charge / Rampage hyper
+	Storm: Lightning Storm hyper
+	Namor: ? / ?
+	Daredevil: finish Radar Sense special / ??? hyper
+
+
+
+
+----------------------------------------------------
+For v2.2 (no date yet):
+
+OUGHT TO HAVE, NOT STARTED:
+- Lobo special
+  - (this would make Juggernaut hyper easy to add)
+- Plastic Man special
+- Etrigan hyper
+- Darkseid hyper
+==
+- Thor hyper
+- Crystal hyper
+- Thanos hyper (use Sue hyper as base)
+
+
+MUST HAVE, FIXES:
+- fix super armor
+==
+- Wondy hyper (code)
+- Flash hyper (code)
+==
+- tweak Capt. America hyper to make it more like the real Final Justice
+- Spider-Man hyper
+- Iron Man hyper
+- Dr. Doom hyper (fix projectiles pos / vel)
+
+
+EASY FIXES:
+- Red Lantern hyper (starting sprite)
+- Star Sapphire special (spammable) / hyper
+==
+- Mr. Fantastic special (sprite fixes to 2622,3-4 -- see 3260,0)
+- Songbird special (need explod / SFX) / hyper
+
+
+NICE TO HAVE:
+- turn / crouch turn
+==
+- crouching medium kick (sliding advance or trip?)
+==
+==
+x new special (what JtP is calling "super embrace")
+==
+- Aquaman hyper
+- Doomsday special / hyper
+- Atom hyper
+- Martian Manhunter hyper
+- Shazam special / hyper
+- Starfire hyper
+- Bane special / hyper
+- Vixen hyper
+- Mongul special / hyper
+- Orange Lantern hyper
+==
+- Wolverine hyper
+- (fix) Deadpool hyper (won't always trigger)
+- Juggernaut hyper
+- Mr. Fantastic hyper
+- Venom special / hyper
+- Nightcrawler hyper
+- Rhino hyper
+- Storm hyper
+- Namor special / hyper
+
+
+----------------------------------------------------
+
+For v2.1 (25 Jul 2011 / Scruffyversary):
+
+OUGHT TO HAVE, NOT STARTED:
+x Capt. America hyper
+~ Thanos hyper (use Sue hyper as base)
+
+
+MUST HAVE, FIXES:
+x add damage dampener
+==
+x missing sprite detail/shading on 1200,1 (copy from 1000,1)
+x GL hyper (replaced projectile sprites)
+==
+x Wolverine special
+
+
+EASY FIXES:
+x Eradicator hyper (beam not long enough)
+? Indigo Lantern hyper (won't start?)
+==
+x Invisible Woman hyper (match Sue alpha)
+x Iceman hyper (need chest explod)
+x Marrow hyper (don't say "oh yeah!", add crumble sound)
+x Marrow bonerang SFX
+
+
+NICE TO HAVE:
+x crouching medium punch (see JtP's "cobra" special?)
+==
+~ Hulk/Juggernaut/Doomsday superarmor
+==
+~ new special (what JtP is calling "super embrace")
+==
+x Thing hyper (change anim/hitdefs)
+
+
+
+powerset completion matrix:
+x   Versus:             Special:            Hyper:                  Passive:
+---------------------------------------------------------------------------------------
+1   Superman            done                new                     done
+2   Batman              done                done
+3   Wonder Woman        done                buggy
+4   Flash               done                buggy                   done
+5   Green Lanterns      done                done
+6   Ice                 done                done                    done
+7   Lobo                --                  fixed                   done
+8   Plastic Man         --                  done                    partial
+9   Etrigan             done                --
+10  Lex Luthor          done                done
+11  Darkseid            done                --
+12  Superboy            done                done
+13  Sinestro            done                done
+14  Bizarro             done                done
+15  Aquaman             done                --
+16  Doomsday            --                  --
+17  Poison Ivy          done                done
+18  The Atom            new                 --
+19  Martian Manhunter   done                --
+20  Shazam/Cap.Marvel   --                  --
+21  Starfire            done                --
+22  Bane                --                  --
+23  Eradicator          done                buggy (beam not long enough)
+24  Vixen               done                --
+25  Mongul              --                  --
+26  Red Lantern         done                buggy (starting sprite)
+27  Orange Lantern      done                --
+28  Indigo Lantern      done                done
+29  Star Sapphire       buggy (spammable)   --
+
+51  Capt. America       done                new
+52  Hulk                done                fixed                   ??
+53  Thor                done                --
+54  Spider-Man          done                buggy                   done
+55  Iron Man            done                buggy
+56  Crystal             done                --
+57  Sandman             done                buggy (too much damage)
+58  Wolverine           fixed               --                      done
+59  Carnage             done                done
+60  Dr. Doom            done                buggy
+61  Ghost Rider         done                done
+62  Strong Guy          done                done
+63  Thanos              done                --
+64  Deadpool            done                buggy (won't always trigger)
+65  Juggernaut          fixed               --                      ??
+66  Mr. Fantastic       new                 --                      partial
+67  Invisible Woman     done                redone                  done
+68  The Thing           redone              new
+69  Human Torch         done                redone
+70  Silver Surfer       done                done
+71  Venom               --                  --
+72  Cyclops             done                done
+73  Elektra             done                done
+74  Nightcrawler        fixed (explod trans)--
+75  Marrow              done                done (tweak hitdefs?)
+76  Songbird            done                --                      redone
+77  Omega Red           done                redone (unlock)
+78  Rhino               done                --
+79  Iceman              fixed (explod)      finished
+80  Storm               done                --
+81  Namor               --                  --
+...
+90  Daredevil           partial             --
+91  Miss Marvel         --                  --
+..
+98  Spiral              --                  --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amalgam, as envisioned by Danilokao:
+    - After the transformation, Plague teleports to enemy's back and punches, 
+    sending him to the middle of the screen, 
+    - so Plague traps him with Venom's tendrils, then unleash the "power frenzy" combo: 
+        - Splits in two (Lobo) then both attacks alternate 
+        - Heat vision, freeze ray, GL uppercut, aerial Sandspin...
+        - enemy falls to the ground 
+        - then thanos geokinesis throws him back to the air at the middle of the screen, 
+        - Sinestro's chains tie him up 
+        - then Plague jumps to him and explodes, turning back to parasite.
+
+
+2.1 release notes:
+- added support for Feeding Time on new DCvM version of Ghost Rider
+- fixed a bug that blocked some stages from displaying their foreground elements
+- fixed various sprite issues (smart palette bugs in throw, punch, and Rhino charge)
+- fixed "missing sprite" issues with Batman's and Cyclops's specials
+- fixed animation issues with Juggernaut's special and Hulk's hyper
+- added lose & time-over anims
+- added air medium & hard punches
+- added crouching medium punch & kick
+- tweaked & improved the AI (still not expert-level, but better)
+- changed Power Overload: added sounds, tweaked effects and damage
+
+Power set updates:
+- added Superman hyper (Speed Fury)
+- finished Iceman special (Ice Boulder) by adding sounds and explod effects
+- added Iceman hyper: arctic attack
+- added Mr. Fantastic special (Elastic Slam)
+  -- TODO: fix intermediate sprites
+- changed Invisible Woman hyper (Cosmic Dust)
+- changed Thing special (Yancy Street Express)
+- added Thing hyper (Clobberin' Time)
+  -- TODO: change combo anim, end with hard air punch (smash-down) instead of bat uppercut
+- changed Human Torch hyper (Supernova)
+- added Elektra hyper (Ninjitsu)
+- fixed Lobo hyper to include hyper BG while clones are active
+- fixed bug with Thor's special that caused Rudy-clones if the lightning was blocked/cancelled by P2's special move
+~ fixed: first sprite in Chains of Rage is venom/unedited
+~ added Flash hyper (speed force)
+
+
+updates:
+4/13/09
+- added air recover
+- added fwd/back dashes
+- added code to prevent kryptonite ray from spamming
+- fixed power set recognizer for Etrigan (but the moves aren't yet coded)
+- coded Guido/Strong Guy's hyper
+- added Marrow power set support (but not the moves, yet)
+- added Starfire/Guido/Eradicator/Poison Ivy/Doomsday power sets
+- implemented Starfire special
+- added frozen sprites
+- 
+
+
+POWER SETS
+Released DC chars I probably won't support (Team Spoiler's stuff)
+* Azrael
+* Capt. Boomerang "Boomerang"
+* Harvey Quinn "Harley Quinn"
+* Joker "The Joker"
+* Question "thequestion"
+* Robin "Robin Tim Drake"
+* Warrior (G.Gardner) "Guy Gardner Warrior"
+
+
+
+Options for future DC support:
++Black Adam
++Brainiac
+Beast Boy / Changeling
++Capt. Atom
++Catwoman
+Cyborg
+Cyborg Superman
++Deathstroke
++Dr. Fate
+Dr. Light
++Fire
+Green Arrow
+Harley Quinn
+Hawkman
+Livewire
++Metamorpho
++Nightwing
+Power Girl
+Prometheus
+Raven
++Robin
+Static
++Starfire
+Steel
+Scarecrow
+Superboy Prime
+Wildcat
++Zoom: fist flurry, time slide
+
+
+
+Note on Omega Red (per AC):
+    you could have a passive Healing Factor, and maybe implement the Death Spores as a double whammy.
+    The special releases 'death spores' which cling to the opponent, slowing them down and draining a SMALL amount of life. Each spore clings for say...a few seconds.
+    The hyper could be something like 'Unlock Spore Potential', which would have each spore on the opponent deal a large multiplier of damage. In theory, enough spores on the opponent, could be a one hit kill...but say that'd take...10-12.
+    Therefore , the spore release could be tied to the strength of attack used. Weak = 1, medium = 2, strong = 3.
+
+
+4/12/2009 - what does Rudy still lack?
+- sprite/anim work:
+  x finish jump anims
+  x blocking anims
+  x "missed" anim for feeding time
+  - dizzy
+  - cpunch 2
+  x cpunch 3
+  - ckick 2
+  x ckick 3
+  x apunch 2
+  - apunch 3
+  x akick 1
+  x tripped
+  x shocked/frozen/burned
+  x "projectile absorption" special: he can "absorb fast-moving objects' inertia" (see Wikipedia)
+  x "power overload" hyper
+  - finish/debug a subset of his power sets:
+        Superman: Speed Fury, fix flight, better heat vision effect? (from Kon-el for now)
+        Wonder Woman: Fierce Amazon, fix hyper
+        Flash: Speed Force
+        Lobo: RotGut
+        Plastic Man: Stone Fists         All basic attacks have extended range
+        Aquaman: (some hyper...?)
+
+        Capt. America: Final Justice
+        Hulk: fix hulk smash sprites, add super armor
+        Thor: Mystic Rainfall
+        Spider-Man: finish Maximum Spider
+        Iron Man: finish Nano Assault
+        Crystal: Element Storm
+        Wolverine: finish Berserker Barrage / Weapon X
+        Carnage: finish Crimson Slaughter
+        Dr. Doom: finish Photon Array
+        Strong Guy: finish Pinhead
+        Thanos: Reality Gem? or something from Alucard's?
+        Juggernaut: Earthquake / Head Crush / super armor
+        Invisible Woman: some hyper... hmm.
+        The Thing: change charge sprites/sparks / some kind of hyper
+        Silver Surfer: finish Galactic Might
+        Elektra: inner calm hyper
+        Nightcrawler: Teleport Attack special, Now You See Me hyper (or teleport hyper? hmm...)
+
+Ideas:
+- power-combo attacks:
+  - ice+crystal = elemental storm
+  - lobo+spiderman: maximum spidermen?
+  
+
+SethZantuken ideas (12/31/2005):
+    Well you know he can absorb "Energy" also besides Life force
+    So for his Own Hypers make him absorb like heat or electricity or grab the ground and absorb from that.
+    You can do some wicked stuff that way
+
+    So like he could have a charge command HOLD punch+kick and he absorbs energy around him then he can release it
+    Or say he absorbs the ground.... have him grow a bit and charge at the enemy...Nero Chaos style
+
+    Parasite pretty much is Absorbing man
+
+DaBanner ideas (12/28/2005):
+    I know parasite copies hypers but for a secret ultimate hyper. How about he grabs Superman out
+    of the blue and absorbs so much of his power he mutates into a larger version of himself and
+    does a a quick one-two knockout punch. in the vein of what strong guy does with his level 3 mass punch.
+
+DaBanner ideas (12/31/2005):
+    actually i asked the question the wrong way,i meant to ask if parasite when he touches
+    the enemy,if he would be able to do the opponent's ultimate hypers.
+
+    Or if that would be too complicated.
+
+    As far as an ultimate solo hyper for parasite to do. The only move I can see him doing that
+    stands out is when in the comic superman returned from the dead he was massively overpowered.
+    So he let parasite absorb enough of his energy so that superman came back down to normal
+    abilities. While at the same time parasite came out looking larger and looking kind of like the abomination.
+
+    Ultimate Hyper Idea 1
+        This is just my idea....i think i told it to you before...in his ultimate hyper you can have
+        superman show up in front of parasite threatning to stop him. Superman then just stands
+        regally as parasite grabs him and you see superman in a dizzy state as parasite glows with
+        energy and you see sparks along with the glow going over parasite as he grows into a larger
+        body size with a bit more feral look to him. He then smiles and throws superman away and does
+        an autocombo of 6 hits. 3 punches 3 kicks,3rd kick is a an air launcher that sends the charactor
+        in the air...then parasite jumps in the air and grabs the opponent like the ending piece of
+        captain america's final justice and lands him on his noggin on the way down.
+
+        The energy glow around parasite during the absorbing in the ultimate hyper can be of a red
+        color if you want and i thought those little yellow electric bolts during the thor tornado
+        hyper can be added to him over his body while the glow is happening,to show the overload in his ability.
+
+    Ultimate hyper idea 2
+        If that doesn't work well for you I thought perhaps he could do a superman hyper mix.....
+        same procedure occurs where he absorbs superman and overloads. Then he does 2 hard punches and then does first a
+        mid air,heatvision blast,then immediately dives down in front of the opponent and does super breath...and for
+        the final finale he spins underground and does the bizarro hyper where is digging towards the opponent and
+        covered in lava does a rising uppercut.
+
+buddyup2003 idea (10/8/2007):
+    I just got another idea. Maybe he can have a special block move used where he absorbs projectile attacks to 
+    increase his super bar. I was thinking maybe something similer to the "parry" moves from Street Fighter 3.
+
+
+Progress:
+8/7/2007:
+- revamped power sets to align with DCvM Phase1
+- added Kon-El TK Lift special (needs sounds)
+8/4/2007:
+- added Ghost Rider flaming breath special (needs sounds)
+5/30/2007:
+- more or less finished Omega Blast (Darkseid special)
+- better sprites in several key places (e.g. Ice's special)
+- added power sets for Thanos (62) and The Thing (63) -- no statedefs or moves yet
+5/25/2007:
+- tweaked Web Ball stolen special (still needs hitoverride and dust)
+- added Omega Blast stolen special (needs sound and a better sprite)
+- massaged CMD and ST to allow for aerial stolen specials
+5/20/2007:
+- replaced all stripey stance sprites with speedo stance sprites
+- nearly finished Spider-man "web ball" stolen special (need to remove it if you hit P2; also needs dust effects)
+April-May 2007:
+- added ShockDingo's voices
+- added PalFX to Feeding Time special
+- added Carnage "Symbiote Shards" stolen special
+- added Sandman "Buzzsaw" stolen hyper
+- added new power set for Ghost Rider (61)
+- added standing med. punch
+- added placeholder sprites for standing weak punch
+- tweaked Ice "Icicle Edge" stolen special -- slightly different from the original
+11/04/2006:
+- added teleport sound effects
+- stubbed in Spiderman's special (Web Ball) -- but it's not yet functional
+9/2/2006:
+- added ice's hyper (absolute zero)
+- added Doom's special (teleport -- needs more sprites)
+8/30/2006:
+- added white stripes to stance sprites
+- added more states & anims to Feeding Time (still needs a "grab missed" anim)
+- added a grab/throw (but it's currently too fast and has the wrong sprpriority (should be behind P2)
+8/22/2006:
+- added medium air kick (and worked on light air kick too, but it's a pain to frankensprite with Venom... =P)
+- note: he's got enough basics and stolen power sets now he can actually beat some completed chars, like a Luthor/Superman teamup.
+8/21/2006:
+- finished(?) the gamma charge sprites
+8/20/2006:
+- implemented Luthor stolen move: kryptonite ray
+- swapped in temporary sprites for Hulk stolen move: gamma charge
+- added power slot support for Plastic Man, Carnage, Dr.Doom, & Wolverine
+8/18/2006:
+- finished re-doing the stance anim frames
+- finished editing the standing weak kick anim
+- added clsn2 boxes to all the gethit anims
+- fixed the chain combo detection code in the CMD file to make it smoother / easier
+8/16/2006:
+- worked on crouch & stance anims - crouch, stand-crouch transition, and crouch turning are all done except for the white lines; stance still needs work.
+8/14/2006:
+- added SFF/AIR support for indicating Luthor, Catwoman & Elektra power sets (moves not yet coded)
+- worked on feeding time grab anim frames (a bit)
+8/13/2006:
+- finished editing last frame of air hard kick
+- spent *3* *stinking* *hours* frankenspriting a standing medium kick (finished, except for the Clsn2s)
+7/3/2006:
+- modified Feeding Time to recognize the new "Savage Hulk" as an alternate to regular Hulk
+- started to put in the Hulk stolen powers... Gamma Charge / Gamma Slam
+6/12/2006:
+- fixed CMD so he can't do his stolen ground moves when in the air
+  (may need to add air-specific triggers later on, for things like Supes' Heat Vision special)
+- worked on editing more punches & kicks, based on Venom's with Sabertooth flourishes where needed
+5/26/2006:
+- added standing weak kick (mostly finished)
+1/2/2006:
+- added a bunch of gethits (Jeff)
+12/28/2005:
+- added McCready's donated walk
+- started to add Lobo's Main Men (still needs the startup/death/meter anims, and statedef -1/-2 stuff)
+12/27/2005:
+- added standing HP (Jeff) & HK (McCready)
+12/8/2005:
+- implemented the beginnings of the power-stealing system (and the power slots persist between rounds/matches! Yay!

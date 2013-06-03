@@ -1,0 +1,276 @@
+Feedback on 1/11/2012 release (2.2.1):
+
+DarkClaw:
+	So I was messing with the new Parasite, which at first I thought it would be stuck on storm's power set as it happened twice but it didn't, anyway I decided to mess around with Blackest night Hal and from what I've done he seems to work... EXCEPT for Blue Lantern mode. Now I can't remember if Rudy has that in his power slot or not, but that's not what I'm referring too. When Rudy does his feeding time move, he grabs hal and he gets stuck in the air. So I guess Hal has suffered the effects of a Yo Mama joke.  If you hit him, he'll fall down but yeah he'll get stuck.
+	
+	And other glitches,uncompletenesses, or recommendations are:
+	-Flash's hyper doesn't stop
+	-Iron man's Hyper stays on screen and does MASSIVE damage
+	-Red Lantern's Hyper stops for a few seconds and then happens. I also discovered that while messing with Red Lantern mode on Ultraman, when he reflects the blast rudy will continue to do the attack until he lowers his shield.
+	-Carnage's Shards attack when reflecting off of Ultraman create clones of Rudy but not mini-clones. This also causes lag depending on how many clones(let's say 3) on screen but if they Die or are off screen or mostly off screen the lag stops.
+	-Songbird's attack just moves you still
+	-Thanos's... does nothing wrong actually, it's just you didn't tell us his Hyper was functional.  I do suggest having one of the infinity gems floating up, like reality if that's what you're trying to capture.
+	-Does Rudy say there's not a lot of food or something sometimes when he does his Elektra Hyper? 
+	-Wonder Woman's Hyper WORKS this time but I feel it should have two different lengths for the incoming move. Like one should be close while one should be far.
+	-Sometimes Time for a charge doesn't randomly give you a move set but rather the same one you just had. This happened about 3 times.
+	-Ironman's repluser blast kind of gets stuck on Ultraman's reflective shield but I think the same happens with Ironman himself. Just mentioning it. His Spinning thing also doesn't leave even if damaged.
+	-Hal's GL ring sling does create little clones after all. XD
+	-Silver Surfer's Galactic Might I feel should have a longer range.
+	-After becoming visible with Sue's special, it lags.
+	-Maximun Parasite hits his opponent then flies off screen.
+	-Deadpool's am I immortal or what doesn't work
+	-Flash's Hyper does stop Rudy if you punch which running.
+	-Something I noticed with Both Sue's and Ice man's hypers. They only do a set amount of damage and then it stops. Doesn't matter if you do the hyper again, they won't take off anymore damage. No wait, from what it looks like if you hit them with the hyper again before they hit the floor, that's what you get. If they hit the floor, it'll work normally when they get up.
+	-Lobo's hyper doesn't seem to differ when it comes to the clone's A.I. as they seem to do the same set of move before. And if you're worried, no there isn't any problems combining this with Elektra's move, atleast none I can see so no lag with so many characters on screen.
+	-Ghost Rider's icon has a weird green pixel outside of it. Just telling you about it.
+	-I think you might of said this but the human torch's hyper causes A LOT of Lag.
+	-I got two of the same icon. 
+	-Mini-me's from GL's attack surprisingly don't cause lag btw.
+	-Speaking of GL, if he's hit when doing your ring blast move that I'm too lazy to look up it's name, it will still hit your opponent even though you're down. This may happen differently as I'm using Ultraman's reflective attack on him.
+	-Doesn't Rudy say Flaming charge when doing the move?
+	-Photon Array still doesn't work properly and there's a random array floating by Rudy.
+	-Omega Red's Hyper does nothing. It still takes the hyper energy, rudy does a pose, and the background changes but it does nothing other then that. Unless it's a move meant to grab an enemy in the air.
+	-Martian Manhunter's intangibility special lags once you get out of it regardless of you doing it or your hyper bar is empty. Also, if you do his hyper like with GL's ring blast it'll still go off if you're hit.
+	-Sinestro's Hyper is BROKEN by which I mean it takes like 85 percent of your opponent's health. I don't know if this has any special affect on Ultraman's relective shield or if Sinestro's special has any weird effect either as I did this with indigo hal
+	
+	And that's all she wrote... when it came to dealing with him with Ultraman. I still need to work with Indigo Lantern Hal. D: But I leave you with this:
+	-Thor's attack goes through Indigo hal when he's done the got it cover move and does nothing to him.
+	-Thing's hyper knocks Indigo Hal on the ground and can't complete the hyper
+	-I don't know if she does this or not, but you can throw multiple bone-boomerangs with Marrow's power
+	-Final Justice has the same effect as Ben's hyper
+	-Sandman's hyper feels a bit too quick
+	-All Kryptonite ray attacks phase through hal
+	-Star Sapphire's attacks go through Hal just like Thor's and Lex's.
+	-As Well as MM's hyper.
+	-I think I might of said this before but unless Indigo Hal's health is different, Batman's Hyper is as broken as Sinestro's.
+	-When by Indigo hal, when I do Wonder Woman's hyper for Rudy he only goes like a foot in the air and goes down and does no damage when he's up infront of Hal.
+	-AND For the Grande Finale..... Ironman's repulser blast gets stuck in an infinte loop when Indigo hal reflects it and even if you go and change the move set of iron man, it's still there. However I did figure it out that if you do sinestro's hyper it takes him out of the loop and kills him instantly though I'm not sure if it's because of Sinestro hyper, the blasts, or the two of them together.
+
+===============================================================================
+
+Feedback on 7/26/2011 release (2.1 / RC 2):
+
+HyperSonic92:
+x If you miss hitting the opponent with Superman's hyper he'll continue to move forward until you quit the match
+- He can't seem to do the rest of Thing or Captain America's hyper, only the one hit
+  - works well on bigger characters like Juggernaut but regular sized characters, it's only the one hit 
+  - I'm wrong about the Thing/Cap hyper. It works except for these three (as far as I know) Superman / Wonder Woman / Hal Jordan
+x When P2 Parasite has the "Character = Food" intro, the part of it leaves the thought bubble 
+
+twinimage:
+- I find it hard to do combos with Parasite. He kind of feels slow too. Not sure how to describe it. 
+
+tiro-certo:
+x Very nice, but now he always starts with cap america and another power, and not random powers like before.
+
+Angel Ecks:
+x The equals sign in this intro is transparent
+x he still doesn't recognize the character name "Blackest Night Hal Jordan" so he doesn't work against the latest version of Hal you have
+x If you do decide to change that, could you do .Batzarro. and I a favor,
+and add in a line of target, Name ="Dexstarr" for Rage support?
+ 
+
+HyperCombinationfinish:
+x I don't know if anyone else has had this problem, but for some reason, sound "9,10" sometimes repeats -constantly- when Rudy's out of power whenever his powerset drains energy at a set rate. The only instance I can find in his code that matches up is in the "overrides.st" file, under this:
+  ;-------------------------
+  ; invisibility (stolen from Invisible Woman...who else?)
+
+  This sound code here seems to be the culprit:
+
+  [State -3, no energy]
+  type = PlaySnd
+  trigger1 = !Power
+  trigger1 = Var(2) != 0
+  value = S9,10
+
+  Once I added "trigger1 = Time = 1" into this bit of code, the sound only played once when power ran out, instead of endlessly repeating until he gained some power back. This bug mostly triggered when he was being comboed while using a powerset that constantly drained his power bar (black circle, with a yellow bit at the top and a white "Y" shape in the center). Anyone else run into this?   
+
+x Also, on a much smaller note, I noticed his crouching medium kick uses the same light hit sound as his crouching weak kick.  
+
+slab boi:
+- For some reason he's super bar drains, it fills a little then starts to drain i think it's when he gets hit but cant tell.any body else with this problem?.
+
+===============================================================================
+
+(Note: this file is quite likely out of date, but is here for mainly historic reasons)
+
+Feedback:
+    - freezes during "Maximum Parasite" 
+    - DD's hyper is messed up.
+    - Rudy dissappears with rudy smash
+    - Main Men when you already have the duplicates active, all of the duplicates die, but they stay on screen. From then on, if you do Main Men, then the duplicates will just appear dead and floating in the air.
+    - Nano Assault, you can move and attack while the attack is still being executed.
+    - Photon Array, the photon headed in whichever direction Parasite is facing stays in place.
+    x Galactic Might doesn't seem to do anything.
+    x no elec / frozen sprites
+    x AI is basically very weak
+    x I think there were some missing anims in when he gets knockbacked in the air.
+    x kryptonite ray could be spammed
+    x He doesn't have dash or backdash sprites.
+    x Crouching LP and MP appear to be the same.
+    x Crouching LK, MK, and HK appear to be the same.
+    x Jumping MP and HP don't do anything at all.
+    ~ His non-power-related hyper seems to do more damage than it should...
+
+    Power sets:
+    - Banshee: wha? there is no Banshee powerset, I think maybe you mean Aquaman, and no, the special just stuns/dizzies.
+    x Carnage: Hyper works, but doesn't consume any power bars. - yeah, not finished.
+    Doom: Hyper doesn't actually go anywhere near where the enemy is.
+    Flash: should the symbol not be red? - nope
+    Luthor Looks a bit weird landing from the hyper
+    x Sandman Hyper does WAY too much damage.
+    - heat vision is WAYYYYYYYY too spammy
+
+x Main Men guys need AI instead of being human-controlled
+- sandy dash with sandman powerset?
+
+------------------------
+Tenchi:
+
+Well for one I noticed that parasite doesn't have the best defense. To balance him out
+I was thinking maybe a shuma gortah style grab you know the one where he drains
+health from the opponent. I was thinking you could use like a lightning style effect around
+his body and his arm when he grabs the opponent sorta like the same style implemented
+in the animated Parasite.
+
+---------------------------
+
+Dark Claw:
+
+Idea intros for parasite
+
+    To spidey: Swings on a web and says "Is he strong, Listen Bud, I'm gonna drink his radioactive blood.
+
+    To batman: Para drains energy of a bat, throws it to the side, says "Your next"
+
+    To superman: Para says "Look in the sky, is it a bird, a plane, no its your doom!"
+
+    To the joker: Para says "I'd eat you, but I'm afraid you'd taste funny."
+
+    To venom: Para says Hey buddy, you look alot like me, are we related?
+
+    To Sentry: para says "Hey are you related to superman at all, cause you looks alot like him"
+
+    To Docter Doom: Para says "Now I taste doom and it tastes like chicken" 
+
+
+---------------------------
+
+iflyte diagus:
+
+-when he has flash's and doctor dooms powers at the same time the teleport move gets a bit...weird. The high punch activated teleport seems to make him continuously do the teleport animation without actually doing anything.
+
+-Also when he's using spiderman's hyper (maximum spider) he finally manages to jump off the wall...problem is he keeps going afterwards, like through the floor.
+
+-Wolverines berserker barrage automatically hits 4 times as opposed to the continuous button tapping thats required on the normal character (unless thats normal, seems kinda cheep though :\).
+
+---------------------------
+
+Invisible & Intangible (and Absolute Zero, I suppose) don't ever deactivate if you don't ever run out of powerbar -- even if you change power sets!
+
+---------------------------
+
+Deck:
+I found another minor bug. If u have flash and hulk's powers and do gamma charge, attacking will leave the gamma charge energy field around parasite bcuz of haste. Also i wanted to no if u were 100% done with the dash. It doesnt always activate on command and the distance the foward dash covers seems like it could b more even when compared to a character like lobo who also has a jumping dash
+
+---------------------------
+
+Kojunho:
+
+Dr. Doom's Teleport repeats itself until MUGEN crashes. (fierce teleport, when you also have flash's powerset)
+
+---------------------------
+
+Superboy hyper rock can stick around if the move gets interrupted
+
+---------------------------
+
+Snakebyte:
+    Strategy for Amalgam character support...
+    Say you're fighting Iron Lantern.
+
+    a QCB+P Feeding Time would yield Iron Man's powers
+    a QCB+K Feeding Time would yield Green Lantern's powers.
+
+---------------------------
+
+For AI: move types
+
+Projectile
+    Cyclops: Mega Optic Blast
+    Gambit: Kinetic Card
+    Iceman: Ice Beam
+    Iron Man: Unibeam
+    Marrow: Bonerang
+    Psylocke: Psy-Blast
+    Silver Samurai: Shuriken
+    Storm: Whirlwind
+Anti-Air
+    Cable: Psimitar
+    Cap. America: Stars & Stripes
+    Iron Man: Nano Assault
+    Psylocke: Maelstrom
+    Thanos: Fire Stomp
+Expansion
+    Cyclops: Cyclone Kick
+    Gambit: Royal Flash
+    Iceman: Arctic Attack
+    Magneto: Magnetic Tempest
+    Marrow: Stinger Bones
+    Sabretooth: Berserker Claw
+    Sabretooth: Weapon X
+    Shuma-Gorath: Mystic Smash
+    Storm: Lightning Storm
+    Venom: Venom Fang
+    Wolverine: Berzerker Barrage
+    Wolverine: Weapon X
+Heal
+
+Enhance
+    Cable: Time Flip (I think anyway)
+    Silver Samurai: Multiple Samurai
+    Spiral: Mirror Dance
+Balance
+
+Ground
+    Blackheart: Dark Thunder
+    Ghost Rider: Flame Breath
+    Hulk: Gamma Wave / Hulk Smash
+    Juggernaut: Earthquake
+    Spiral: Metamorphosis
+Throw
+
+Variety
+    Dr. Doom: Photon Array
+Launcher
+    Blackheart: Armageddon
+    Venom: Death Bite
+Dash:
+    Hulk: Gamma Charge
+    Juggernaut: Head Crush
+Capture:
+    Magneto: Hyper Grav
+    Spider-man: Web Ball
+
+
+Don't know how to categorize:
+    Shuma-Gorath: Chaos Dimension (?)
+    Spider-man: Maximum Spider (?)
+
+
+Thanos hyper options:
+    Gauntlet Power (capture)
+    Gauntlet Reality (dash)
+    Gauntlet Space (launcher)
+
+Passive power sets, based on MvC2:
+    Psylocke: triple jump
+    
+    Marrow: wall jump / double jump
+    Sabretooth: wall jump
+    Spider-Man: wall jump
+    Wolverine: wall jump
+
+    Captain America: double jump
+    Cyclops: double jump
+    Storm: flight
