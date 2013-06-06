@@ -628,14 +628,14 @@ type = VarSet
 trigger1 = roundno = 1
 trigger1 = var(50) = 0
 v = 50
-value = 81; ((Random * 29) / 1000) + 1
+value = ((Random * 30) / 1000) + 1
 
 [State 5900, powerPreset2]
 type = VarSet
 trigger1 = roundno = 1
 trigger1 = var(51) = 0
 v = 51
-value = 51; ((Random * 30) / 1000) + 51
+value = ((Random * 30) / 1000) + 51
 
 ;-------------------------------------------------------------
 ; figure out who my opponent is, and store that tidbit in var(47).
@@ -660,16 +660,20 @@ var(47) = 3
 type = VarSet
 trigger1 = P2Name = "Flash"
 trigger2 = P2Name = "TheFlash"
+trigger3 = P2name = "Wally West"
+trigger4 = p2name = "Barry Allen"
+trigger5 = p2name = "Jay Garrick"
 var(47) = 4
 
 [State 5900, powerset5]
 type = VarSet
-trigger1 = P2Name = "Hal Jordan" && (enemy, PalNo <= 6)
+trigger1 = P2Name = "Blackest Night Hal Jordan" && (enemy, PalNo <= 6)
 trigger2 = P2Name = "Green Lantern Hal Jordan"
 trigger3 = P2Name = "Guy Gardner"
 trigger4 = P2Name = "Green Lantern Guy"
 trigger5 = P2Name = "John Stewart"
 trigger6 = P2Name = "Green Lantern"
+trigger7 = P2Name = "John_StewartGL"
 var(47) = 5
 
 [State 5900, powerset6]
@@ -686,6 +690,7 @@ var(47) = 7
 type = VarSet
 trigger1 = P2Name = "Homem Borracha"
 trigger2 = P2Name = "Plastic Man"
+trigger3 = P2Name = "ElongatedMan"
 var(47) = 8
 
 [State 5900, powerset9]
@@ -718,7 +723,7 @@ var(47) = 12
 [State 5900, powerset13]
 type = VarSet
 trigger1 = P2Name = "Sinestro"
-trigger2 = (P2Name = "Hal Jordan") && (enemy, PalNo = 9)
+trigger2 = (P2Name = "Blackest Night Hal Jordan") && (enemy, PalNo = 9)
 var(47) = 13
 
 [State 5900, powerset14]
@@ -791,7 +796,8 @@ var(47) = 25
 type = VarSet
 trigger1 = (P2Name = "Atrocitus")
 trigger2 = (P2Name = "Red Lantern")
-trigger3 = (P2Name = "Green Lantern") && (enemy, PalNo = 7)
+trigger3 = (P2Name = "Blackest Night Green Lantern") && (enemy, PalNo = 7)
+trigger4 = (P2Name = "Dexstarr")
 var(47) = 26
 
 [State 5900, powerset27]
@@ -799,7 +805,7 @@ type = VarSet
 trigger1 = (P2Name = "Larfleeze")
 trigger2 = (P2Name = "Orange Lantern")
 trigger3 = (P2Name = "Agent Orange")
-trigger4 = (P2Name = "Hal Jordan") && (enemy, PalNo = 8)
+trigger4 = (P2Name = "Blackest Night Hal Jordan") && (enemy, PalNo = 8)
 trigger5 = (P2Name = "Lex Luthor") && (enemy, PalNo = 12)
 var(47) = 27
 
@@ -807,7 +813,7 @@ var(47) = 27
 type = VarSet
 trigger1 = (P2Name = "Indigo-1")
 trigger2 = (P2Name = "Indigo Lantern")
-trigger3 = (P2Name = "Hal Jordan") && (enemy, PalNo = 11)
+trigger3 = (P2Name = "Blackest Night Hal Jordan") && (enemy, PalNo = 11)
 var(47) = 28
 
 [State 5900, powerset29]
@@ -818,6 +824,7 @@ var(47) = 29
 [State 5900, powerset30]
 type = VarSet
 trigger1 = (P2Name = "Black Lantern")
+trigger2 = (P2Name = "Blackest Night Hal Jordan") && (enemy, PalNo = 12)
 var(47) = 30
 
 ; 31-50: open
@@ -826,6 +833,8 @@ var(47) = 30
 type = VarSet
 trigger1 = P2Name = "Captain America"
 trigger2 = P2Name = "Isaiah Bradley"
+trigger3 = P2Name = "Captain Bucky"
+trigger4 = P2Name = "Ultimate Cap"
 var(47) = 51
 
 [State 5900, powerset52]
@@ -851,6 +860,8 @@ type = VarSet
 trigger1 = P2Name = "Iron-Man"
 trigger2 = P2Name = "Ironman"
 trigger3 = P2Name = "Ironman DCvsM"
+trigger4 = P2Name = "War Machine"
+trigger5 = P2Name = "Warmachine"
 var(47) = 55
 
 [State 5900, powerset56]
@@ -989,6 +1000,7 @@ var(47) = 78
 [State 5900, powerset79]
 type = VarSet
 trigger1 = P2Name = "Iceman"
+trigger2 = P2Name = "MvDC Iceman"
 var(47) = 79
 
 [State 5900, powerset80]
@@ -998,7 +1010,7 @@ var(47) = 80
 
 [State 5900, powerset81]
 type = VarSet
-trigger1 = P2Name = "Namor"
+trigger1 = P2Name = "Cable"
 var(47) = 81
 
 ; 82-89: open

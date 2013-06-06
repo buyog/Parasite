@@ -386,6 +386,7 @@ trigger1 = target, Name = "Flash"
 trigger2 = target, Name = "TheFlash"
 trigger3 = target, name = "Wally West"
 trigger4 = target, name = "Barry Allen"
+trigger5 = target, name = "Jay Garrick"
 v = var(49)
 value = 4
 
@@ -398,6 +399,7 @@ trigger3 = target, Name = "Guy Gardner"
 trigger4 = target, name = "Green Lantern Guy"
 trigger5 = target, Name = "John Stewart"
 trigger6 = target, Name = "Green Lantern"
+trigger7 = target, Name = "John_StewartGL"	; jhonnyDC's
 v = var(49)
 value = 5
 
@@ -420,6 +422,7 @@ type = VarSet
 triggerall = (NumTarget > 0) && (var(var(49)) != 8) && (AnimElem = 2)
 trigger1 = target, Name = "Homem Borracha"
 trigger2 = target, Name = "Plastic Man"
+trigger3 = target, Name = "ElongatedMan"
 v = var(49)
 value = 8
 
@@ -562,7 +565,7 @@ triggerall = (NumTarget > 0) && (var(var(49)) != 26) && (AnimElem = 2)
 trigger1 = (target, Name = "Atrocitus")
 trigger2 = (target, Name = "Red Lantern")
 trigger3 = (target, Name = "Blackest Night Hal Jordan") && (target, PalNo = 7)
-trigger2 = (target, Name = "Dexstarr")
+trigger4 = (target, Name = "Dexstarr")
 v = var(49)
 value = 26
 
@@ -653,6 +656,8 @@ triggerall = (NumTarget > 0) && (var(var(49)) != 55) && (AnimElem = 2)
 trigger1 = target, Name = "Iron-Man"
 trigger2 = target, Name = "Ironman"
 trigger3 = target, Name = "Ironman DCvsM"
+trigger4 = target, Name = "War Machine"
+trigger5 = target, Name = "Warmachine"
 v = var(49)
 value = 55
 
@@ -700,6 +705,7 @@ value = 60
 type = VarSet
 triggerall = (NumTarget > 0) && (var(var(49)) != 61) && (AnimElem = 2)
 trigger1 = target, Name = "Ghost Rider"
+trigger2 = target, Name = "DCvsMGhostRider"
 v = var(49)
 value = 61
 
