@@ -1,11 +1,11 @@
 DC Comics' Parasite
+=======================================================================
 Version: 2.2 (1/2/2012)
 
-Created by Buyog2099 and Jet the Phoenix, with help from pretty much the entire Scruffy Dragon team
-for the MUGEN DC vs Marvel project
-=======================================================================
+Created by Buyog2099 and Jet the Phoenix, with help from pretty much the entire Scruffy Dragon team, for the MUGEN DC vs Marvel project
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Things that will hack me off related to the use of this character:
 - Don't host it on your site unless you ASK me first, and give me
     proper credit. Email isn't hard, and I'll probably say yes,
@@ -14,10 +14,12 @@ Things that will hack me off related to the use of this character:
     or my site, Buyog.com, it's quite possible that it's been hacked and/or modified
     without my permission, and not all the moves and animations may be very good.
     Best to get it from a trusted source and be confident in its integrity.
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-=======================================================================
+
 PROFILE
+----------------------------------
 
 Rudy Jones was a simple man, a janitor for S.T.A.R. Labs, who made the mistake 
 of thinking he could open a radioactive waste container to steal something 
@@ -30,8 +32,9 @@ Over the years, Rudy's also picked up the ability to feed off of other sources
 of energy, like heat and light, and to retain the powers he steals for longer 
 periods of time. 
 
-=======================================================================
+
 GAMEPLAY
+----------------------------------
 
 Parasite's got the typical "Capcom Versus" 6-button play style:
 x - Weak Punch (WP)
@@ -52,6 +55,8 @@ support MUGEN 1.0. He should work fine in both environments; if you have issues,
 
 
 SPECIALS
+----------------------------------
+
  - Projectile Absorb: WP+WK
 	Rudy catches any incoming projectile, if he can (not all projectiles are absorbable), 
 
@@ -66,8 +71,11 @@ SPECIALS
  - Feeding Frenzy (air or ground): HP+WK or WP+HK
 	Simple dash attack where you try to jump your opponent by surprise and drain their lifeforce away; 
 	whatever lifeforce you manage to steal adds to your power bar.
+
 	
 HYPERS
+----------------------------------
+
  - (lvl1) Stolen Power (varies): QCF + PP/KK
 	Rudy activates whatever hyper is associated with his current power set
     (or, if he hasn't got a hyper in that power set, he'll complain to you about it)
@@ -81,6 +89,8 @@ HYPERS
 
 
 POWER SYSTEM
+----------------------------------
+
 Near the bottom of the screen you'll notice two overlapping "mouths" that 
 represent the two power slots that can be filled by other character's moves: 
 one is filled and activated with the punch buttons, the other with the kicks.
@@ -96,6 +106,7 @@ section further down the page.
 
 
 COMBO SYSTEM
+----------------------------------
 
 Capcom-style chain combos work for standing, crouching, and air:
 1. WP+MP+SP: you can chain the three punches together, weakest to strongest, for a 3 hit combo.
@@ -106,8 +117,8 @@ Launcher: Crouching HP
 
 
 
-=======================================================================
 POWER SETS
+----------------------------------
 
 Parasite's current power set system
 last updated: 1/2/2012
@@ -190,6 +201,7 @@ x   Versus:             Special:            Hyper:                  Passive:
 99  Spiral              MIRROR DANCE        metamorphosis (autocombo w/ all chars)
 
 Released chars I plan to support in the future:
+
     Joker
     Nightwing
     Harley Quinn
@@ -207,9 +219,9 @@ Released chars I plan to support in the future:
     Sabretooth          Berserker Claw      Weapon X
 
 
-=======================================================================
 VERSION HISTORY:
---------------------
+=======================================================================
+
 * (future): v2.5
   - new custom attacks and animations for a bunch of power sets (too many to name, courtesy of Jet the Phoenix)
 
@@ -326,8 +338,9 @@ Power set updates:
 * 12 Apr 2009: v0.99
   - First official public release. Still lots of missing/unfinished stuff.
 
-======================================================================
+
 CREDITS
+----------------------------------
 
 Rudy owes a lot to other creators who have graciously allowed me to mimic (and in some cases copy) their characters' moves.
 Likewise, many people have lent images, ideas, and sprites that all contribute to the character as he is today; this 
@@ -335,7 +348,7 @@ character would not have been possible without them.
 Here are some of the people that have really gone out of their way to help me out... if I've missed you, I'm sorry! 
 Let me know and I'll credit you in the next release.
 
-Credits:
+Thanks to:
 - Jet the Phoenix for jumping in with both feet as my partner and co-creator. A lot of what you see in this version is his work.
 - McCready for the portrait, walk, standing hard kick, and some other edited Sabertooth legs (modified from Guido's)
 - Jeff for the gethits, standing hard punch, and grab
@@ -366,7 +379,9 @@ Sprites and sounds from other characters:
 - Mambojambo for moves from Plastic Man (Borracha)
 - zvitor for sprites and adapted code from Omega Red and Aquaman
 
+
 LINKAGE
-Buyog's email:              buyog2099@yahoo.com
-Buyog's webspace:           http://www.buyog.com/MUGEN
-Scruffy Dragon webspace:    http://www.scruffydragon.com
+----------------------------------
+- Buyog's email:              mugen@buyog.com
+- Buyog's webspace:           http://www.buyog.com/MUGEN
+- Scruffy Dragon webspace:    http://www.scruffydragon.com
