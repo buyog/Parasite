@@ -1,3 +1,165 @@
+================================================================
+DC characters to consider supporting:
+
+* indicates it's likely I'll do it
+
+Scruffy:
+	*Nightwing
+	*Silver Banshee
+	Steel
+	Supergirl	-- Superman's power set,  maybe?
+	Joker	-- nothing there to steal, really... it's all gadget- and weapon-based.
+	Wildcat
+
+Infinity:
+	IMT Batman	(done)
+
+Johnny DC:
+	*Elongated Man	-- give up Plas's power set >:)
+	*Metamorpho
+	*J'onn J'onzz	-- ok (hyper shoud be redone)
+	*John Stewart	-- GL power set
+	*Gorilla Grodd
+	*Zatanna
+	Red Tornado
+	Shade
+
+ZVitor:
+	*Catwoman
+	*Cyborg	...? it's all tech-based; not sure...
+	Green Arrow	...? nothing there to steal, really...
+	Hawkman		...hmm.
+
+Others:
+	*Captain Atom
+	*Doomsday
+		the heck...? I can't grab him because of his insane superarmor...
+	*Major Force (Blagoy)
+
+Suggestions from the blog (May 2013):
+	*Clayface
+	Jason Todd
+26	Dex Starr
+	*Gorilla Grodd
+	*Power Girl
+	Hawkman
+	*Catwoman
+	*Cyborg
+	Onomatopoiea
+4	Jay Garrick
+	*Despero
+
+
+Tentative DC powerset matrix for Phase 2:
+
+1   Superman
+2   Batman
+3   Wonder Woman
+4   Flash
+5   Green Lantern
+6   Ice
+7   Lobo
+8   Plastic Man
+9   Etrigan
+10  Lex Luthor
+11  Darkseid
+12  Superboy
+13  Sinestro
+14  Bizarro
+15  Aquaman
+16  Doomsday
+17  Poison Ivy
+18  The Atom
+19  Martian Manhunter
+20  Shazam/Cap.Marvel
+21  Starfire
+22  Bane
+23  Eradicator
+24  Vixen
+25  Mongul
+26  Red Lantern
+27  Orange Lantern
+28  Indigo Lantern
+29  Star Sapphire
+30  Black Lantern
+31	Catwoman	cat slide / raging cat
+32	.
+33	.
+34	.
+35	.
+36	.
+37	.
+38	.
+39	.
+40	.
+41	.
+42	.
+43	.
+44	.
+45	.
+46	.
+47	.
+48	.
+49	.
+50	.
+
+
+================================================================
+Original Marvel characters to consider:
+
+Scruffy:
+	Bishop
+	Blob
+	Electro
+	Morph
+	Prof X
+	S-Man 2099
+	USAgent
+	Ultron
+	Vulture
+	Wonder Man
+
+ZVitor:
+	Namor
+	Quicksilver
+		flash power set? :-P
+	ScarletWitch
+		magic trap / reality control
+	
+Others:
+	Prof X
+		telepathic attack / astral plane
+
+
+Suggestions from the blog:
+	Luke Cage
+	Scarlet Witch
+	Hope Summers
+	Agony
+	Phage
+	The Spider
+	Spider Carnage
+	Birdy
+	Red Skull
+	Scream
+	Red Hulk
+	Wasp
+	Antman
+	Ultron
+	Black Widow
+	Mole Man
+	M.O.D.O.K
+	Bullseye
+	Ronan
+	Kitty
+	Proff X
+	Pyro
+	Avalanche
+	Blob
+
+
+
+================================================================
 All Capcom Marvel characters (to eventually support...?)
 
 X:COTA
@@ -187,14 +349,12 @@ STILL TO DO (Fall 2012 list):
 	Thanos: finish Stone Walls hyper
 	Juggernaut: Power Up hyper / Super Armor
 	Mr. Fantastic: finish elastic slam sprites / Pliable Pounder hyper
-	Thing: change special sfx / hyper is busted after first dash
+	Thing: change special sfx / hyper is busted after first dash (for some opponents)
 	Venom: Venom Fang special / Death Bite hyper
 	Nightcrawler: Triple Threat Teleport hyper
 	Songbird: finish Decibel Barrage special / Shatter Scream hyper
 	Rhino: tweak damage on charge / Rampage hyper
 	Storm: Lightning Storm hyper
-	Namor: ? / ?
-	Daredevil: finish Radar Sense special / ??? hyper
 
 
 
