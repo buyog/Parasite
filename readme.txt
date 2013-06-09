@@ -4,18 +4,18 @@ Version: 2.2 (1/2/2012)
 
 Created by Buyog2099 and Jet the Phoenix, with help from pretty much the entire Scruffy Dragon team, for the MUGEN DC vs Marvel project
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-----------------------------------------------------------------------
 
-Things that will hack me off related to the use of this character:
-- Don't host it on your site unless you ASK me first, and give me
-    proper credit. Email isn't hard, and I'll probably say yes,
-    so don't be afraid to ask. =P
-- If you got this character from somewhere other than ScruffyDragon.com 
-    or my site, Buyog.com, it's quite possible that it's been hacked and/or modified
-    without my permission, and not all the moves and animations may be very good.
-    Best to get it from a trusted source and be confident in its integrity.
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	Things that will hack me off related to the use of this character:
+	- Don't host it on your site unless you ASK me first, and give me
+		proper credit. Email isn't hard, and I'll probably say yes,
+		so don't be afraid to ask. =P
+	- If you got this character from somewhere other than ScruffyDragon.com 
+		or my site, Buyog.com, it's quite possible that it's been hacked and/or modified
+		without my permission, and not all the moves and animations may be very good.
+		Best to get it from a trusted source and be confident in its integrity.
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 PROFILE
